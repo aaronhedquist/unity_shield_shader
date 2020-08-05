@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="072ede60-4e3f-46fe-9a2e-2c1e313f0a54" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DecodeDepthNormal</find>
+      <find>vert</find>
+      <find>DecodeFloatRG</find>
+      <find>depth</find>
+      <find>linear01</find>
+      <find>-mul</find>
+      <find>UNITY_SAMPLE_DEPTH</find>
+      <find>Linear01Depth</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ShieldShader_1_intersection.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ShieldShader_2_hex.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Show Depth/OnRenderMaterial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Show Depth/ShowDepthShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Show Depth/RenderDepth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReplacementShaderEffect.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ReplacementShader.cs" />
+        <option value="$PROJECT_DIR$/Assets/ReplacementShaderEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Binston/Barrier.shader" />
+        <option value="$PROJECT_DIR$/Assets/ShieldShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/ShieldShader_2_hex.shader" />
+        <option value="$PROJECT_DIR$/Assets/RenderDepth.cs" />
+        <option value="$PROJECT_DIR$/Assets/OnRenderReplacementShaderEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShowDepthShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Show Depth/OnRenderMaterial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Show Depth/RenderDepth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Show Depth/ShowDepthShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/ShieldShader_1_intersection.shader" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="906" />
+    <option name="y" value="284" />
+    <option name="width" value="1658" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectId" id="1fepvtOtp9UnfdQXLy4IwrVQ7RS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="072ede60-4e3f-46fe-9a2e-2c1e313f0a54" name="Default" comment="" />
+      <created>1517443682428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517443682428</updated>
+      <workItem from="1517443684924" duration="23000" />
+      <workItem from="1517443749720" duration="6784000" />
+      <workItem from="1517611435884" duration="646000" />
+      <workItem from="1596588663223" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
